@@ -6,11 +6,11 @@
   },
   "dependencies": {
     "express": "^4.21.2",
-    "staller-plugin": "^1.2.1"
+    "staller-plugin": "^1.2.2"
   },
   "devDependencies": {
     "@types/express": "^5.0.1",
-    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.7.3"
   }
